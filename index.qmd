@@ -2,6 +2,6 @@
 title: "index name"
 ---
 
-This is a Quarto website.
+This is a farm website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![we love baby cows](https://i0.wp.com/www.yesmagazine.org/wp-content/uploads/imports/306009e1b96645c98f6e9253a39cc136.jpg?resize=1950%2C1016&quality=90&ssl=1){fig-align="center"}
