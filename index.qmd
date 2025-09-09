@@ -1,5 +1,5 @@
 ---
-title: "index name"
+title: "Home"
 ---
 
 This is a farm website.

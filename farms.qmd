@@ -2,3 +2,5 @@
 title: "Farms"
 editor: visual
 ---
+
+![](https://www.veganfoodandliving.com/wp-content/uploads/2021/09/Friesian-Cows-in-field.jpg){fig-align="center"}
